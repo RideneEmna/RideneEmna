@@ -11,11 +11,11 @@
   <img src="https://img.shields.io/badge/DevOps-Enthusiast-f97316?style=flat" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="mailto:rideneemna88@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/emna-ridene-509a97224/">LinkedIn</a> ·
-  <a href="">Portfolio</a>
-</p> -->
+  <!-- <a href="">Portfolio</a> -->
+</p> 
 
 ---
 
