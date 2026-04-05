@@ -49,6 +49,72 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 </p>
 
 
+---
+
+## 🏗️ Experience Highlights
+
+**J’économise.fr  — Full Stack Developer (PFE Internship)**  
+`Node.js · Angular · Docker · Elasticsearch · Kibana`
+
+- Designed an intelligent log centralization solution
+- Implemented an automated alerting system to improve monitoring
+- Integrated the ELK stack (Elasticsearch, Logstash, Kibana)
+- Configured and deployed Fleet Server and Elastic Agent
+- Ensured real-time log collection / Analyzed and visualized logs using Kibana
+- Applied machine learning techniques for anomaly detection
+- Dockerized application & automated pipelines  
+- Agile Scrum (sprints, planning, tracking)
+
+
+**Talen Tunisie — Full Stack & AI Developer**  
+`Figma · Computer Vision · Computer Vision`
+
+- Developed a solution to detect stem cell health status through feature extraction
+- Built models to predict stem cell differentiation pathways
+- Contributed to the development of a specialized bio-ink for organ and tissue regeneration
+
+**Elite Council Consulting — Full Stack  Developer**  
+`CSS · HTML · Spring Boot · Postgress`
+
+- Developed an intelligent Learning Management System (LMS) used Spring Boot for backend development
+- Integrated PostgreSQL for database management
+- Contributed to the development of a specialized bio-ink for organ and tissue regeneration
+
+---
+
+## 🎓 Academic Projects
+
+### **1. Android Contact Management App** 📱  
+📅 Nov. 2024 – Jan. 2025 | ISSAT Sousse  
+Development of a mobile application to manage a contact book, send messages directly, and share location.  
+
+**✨ Features:**  
+- 📇 Add, edit, delete, and search contacts  
+- 📞 Call, 💬 message, or 🗺️ locate contacts on Google Maps  
+- 🖼️ RecyclerView for displaying contacts and messages  
+- 🔗 Intents for calls and messaging  
+- 🔒 Permissions management for calls, SMS, and location  
+
+**🛠️ Skills:**  
+<img src="https://skillicons.dev/icons?i=androidstudio,java,sqlite,xml" width="100" height="100" style="margin:5px"/>
+
+---
+
+### **2. Student Management Application** 🎓  
+📅 Oct. 2024 – Dec. 2024  
+Web application to manage students, track grades and attendance, generate academic reports, and implement secure authentication.  
+
+**✨ Features:**  
+- 📇 Add, edit, delete, and search students  
+- 📝 Track grades and attendance  
+- 🔒 Authentication and authorization system  
+- 🌐 Responsive user interfaces  
+
+**🛠️ Skills:**  
+<img src="https://skillicons.dev/icons?i=symfony,mysql,html,css" width="100" height="100" style="margin:5px"/>
+
+--
+
 <!-- FOOTER -->
 <p align="center">
   <sub>Building scalable solutions • Learning every day • Open to opportunities</sub>
