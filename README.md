@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="mailto:rideneemna88@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/emna-ridene-509a97224/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/emna-ridene-509a97224/">LinkedIn</a> 
   <!-- <a href="">Portfolio</a> -->
 </p> 
 
