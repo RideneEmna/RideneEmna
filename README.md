@@ -114,7 +114,13 @@ Web application to manage students, track grades and attendance, generate academ
 <img src="https://skillicons.dev/icons?i=symfony,mysql,html,css" width="100" height="100" style="margin:5px"/>
 
 --
+## 🌍 Languages
 
+- Arabic — Native  
+- French — Fluent  
+- English — Intermediate  
+
+---
 <!-- FOOTER -->
 <p align="center">
   <sub>Building scalable solutions • Learning every day • Open to opportunities</sub>
