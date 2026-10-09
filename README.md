@@ -133,6 +133,21 @@ Web application to manage students, track grades and attendance, generate academ
 <img src="https://skillicons.dev/icons?i=symfony,mysql,html,css" width="100" height="100" style="margin:5px"/>
 
 --
+
+
+### **3. Emotion Recognition**
+📅 Oct. 2024 – Dec. 2024 
+
+**✨ Features:**   
+- Developed a facial emotion recognition application using Machine Learning and image processing techniques. 
+- Designed and trained an image classification model capable of identifying different facial expressions. 
+-  Developed a web interface with Flask for image upload and prediction result visualization.
+  
+**🛠️ Skills:**
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow" width="100" height="100" style="margin:5px"/>
+
+--
+
 ## 🌍 Languages
 
 - Arabic — Native  
