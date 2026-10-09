@@ -53,6 +53,21 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 
 ## 🏗️ Experience Highlights
 
+**KidoraAI — AI & Web Developer** 
+`Python · FastAPI · Pandas · MongoDB · Machine Learning . Data Analytics`
+
+- Developed an AI and Data Analytics solution for nurseries and primary schools to improve communication between educational institutions and parents, while supporting school management and monitoring.
+
+- Designed and implemented REST APIs using FastAPI to integrate Machine Learning functionalities into the platform.
+
+- Developed Machine Learning models for predictive subscription analysis and trend identification based on collected data.
+
+- Processed, transformed, and analyzed data using Python and Pandas to support predictive modeling and generate performance indicators.
+
+- Contributed to analytical dashboards for performance monitoring and data-driven decision-making.
+
+- Integrated and managed application data using MongoDB.
+
 **J’économise.fr  — Full Stack Developer (PFE Internship)**  
 `Node.js · Angular · Docker · Elasticsearch · Kibana`
 
