@@ -144,6 +144,7 @@ Web application to manage students, track grades and attendance, generate academ
 -  Developed a web interface with Flask for image upload and prediction result visualization.
   
 **🛠️ Skills:**
+
 <img src="https://skillicons.dev/icons?i=python,flask,tensorflow" width="100" height="100" style="margin:5px"/>
 
 --
