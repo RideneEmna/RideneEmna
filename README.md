@@ -54,7 +54,6 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 ## 🏗️ Experience Highlights
 
 **KidoraAI — AI & Web Developer** 
-
 `Python · FastAPI · Pandas · MongoDB · Machine Learning . Data Analytics`
 
 - Developed an AI and Data Analytics solution for nurseries and primary schools to improve communication between educational institutions and parents, while supporting school management and monitoring.
