@@ -54,6 +54,7 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 ## 🏗️ Experience Highlights
 
 **KidoraAI — AI & Web Developer** 
+
 `Python · FastAPI · Pandas · MongoDB · Machine Learning . Data Analytics`
 
 - Developed an AI and Data Analytics solution for nurseries and primary schools to improve communication between educational institutions and parents, while supporting school management and monitoring.
@@ -69,6 +70,7 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 - Integrated and managed application data using MongoDB.
 
 **J’économise.fr  — Full Stack Developer (PFE Internship)**  
+
 `Node.js · Angular · Docker · Elasticsearch · Kibana`
 
 - Designed an intelligent log centralization solution
@@ -82,6 +84,7 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 
 
 **Talen Tunisie — Full Stack & AI Developer**  
+
 `Figma · Computer Vision · Computer Vision`
 
 - Developed a solution to detect stem cell health status through feature extraction
@@ -89,6 +92,7 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 - Contributed to the development of a specialized bio-ink for organ and tissue regeneration
 
 **Elite Council Consulting — Full Stack  Developer**  
+
 `CSS · HTML · Spring Boot · Postgress`
 
 - Developed an intelligent Learning Management System (LMS) used Spring Boot for backend development
